@@ -1,5 +1,9 @@
  # Revenue Optimization and Demand Forecasting - Dairy Firm
 
+ ![Project Banner](images/bdm_banner.png)
+
+![IIT Madras](https://img.shields.io/badge/IIT_Madras-BS_Degree-blue.svg) ![Course](https://img.shields.io/badge/Course-Business_Data_Management-orange.svg) ![Status](https://img.shields.io/badge/Status-Completed-success.svg)
+
 This project focuses on analyzing sales patterns, optimizing revenue, and forecasting demand for **Shree Maa Dairy (Apra Milk)**. As part of the IIT Madras BS Degree Program (Business Data Management Capstone Project), this analysis transforms raw invoice data into actionable strategic insights.
 
 ## 📊 Project Overview
