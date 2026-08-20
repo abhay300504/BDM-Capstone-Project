@@ -1,10 +1,7 @@
  # Revenue Optimization and Demand Forecasting - Dairy Firm
  ### A Data-Driven Study on Shree Maa Dairy (Apra Milk)
 
-<p align="center">
-  <img src="./bdm_banner.png.png" alt="Abhay's Banner" width="100%">
-</p>
- 
+![Project Banner](bdm_banner.png) 
 
 ![IIT Madras](https://img.shields.io/badge/IIT_Madras-BS_Degree-blue.svg) ![Course](https://img.shields.io/badge/Course-Business_Data_Management-orange.svg) ![Status](https://img.shields.io/badge/Status-Completed-success.svg)
 
